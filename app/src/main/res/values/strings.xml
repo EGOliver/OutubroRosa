@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Outubro Rosa Protótipo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cópia projeto outubro</string>
+    <string name="nav_header_subtitle">@EGOliver no GitHub</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Início</string>
+    <string name="menu_gallery">Sobre o Outubro Rosa</string>
+    /////////////////////////////////////////
+    <string name="menu_sintomas">Sintomas</string>
+    <string name="menu_fatores_risco">Fatores de Risco</string>
+    <string name="menu_slideshow">Prevenções</string>
+    /////////////////////////////////////////
+    <string name="menu_dadosstat">Dados Estatisticos</string>
+    <string name="menu_mitoverdade">Mito vs Verdade</string>
+    <string name="menu_saibamais">Saiba Mais</string>
+</resources>

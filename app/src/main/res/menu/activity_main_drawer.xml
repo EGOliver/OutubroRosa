@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="@string/menu_home"/>
+        <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/laco_outubro_rosa"
+                android:title="@string/menu_gallery"/>
+        <item
+                android:id="@+id/nav_sintomas"
+                android:icon="@drawable/laco_outubro_rosa"
+                android:title="@string/menu_sintomas"/>
+        <item
+                android:id="@+id/nav_fatores_risco"
+                android:icon="@drawable/laco_outubro_rosa"
+                android:title="@string/menu_fatores_risco"/>
+        <item
+                android:id="@+id/nav_slideshow"
+                android:icon="@drawable/laco_outubro_rosa"
+                android:title="@string/menu_slideshow"/>
+        <item
+                android:id="@+id/nav_dadosstat"
+                android:icon="@drawable/laco_outubro_rosa"
+                android:title="@string/menu_dadosstat"/>
+        <item
+                android:id="@+id/nav_mitoverdade"
+                android:icon="@drawable/laco_outubro_rosa"
+                android:title="@string/menu_mitoverdade"/>
+        <item
+                android:id="@+id/nav_saibamais"
+                android:icon="@drawable/ic_notifications_black_24dp"
+                android:title="@string/menu_saibamais"/>
+    </group>
+</menu>

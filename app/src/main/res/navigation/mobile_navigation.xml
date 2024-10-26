@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/mobile_navigation"
+            app:startDestination="@+id/nav_home">
+
+    <fragment
+            android:id="@+id/nav_home"
+            android:name="com.projeto.outubrorosa.ui.home.HomeFragment"
+            android:label="@string/menu_home"
+            tools:layout="@layout/fragment_home"/>
+
+    <fragment
+            android:id="@+id/nav_gallery"
+            android:name="com.projeto.outubrorosa.ui.gallery.GalleryFragment"
+            android:label="@string/menu_gallery"
+            tools:layout="@layout/fragment_gallery"/>
+
+    <fragment
+            android:id="@+id/nav_slideshow"
+            android:name="com.projeto.outubrorosa.ui.slideshow.SlideshowFragment"
+            android:label="@string/menu_slideshow"
+            tools:layout="@layout/fragment_slideshow"/>
+    <fragment
+            android:id="@+id/nav_sintomas"
+            android:name="com.projeto.outubrorosa.ui.sintomas.SintomasFragment"
+            android:label="@string/menu_sintomas"
+            tools:layout="@layout/fragment_sintomas"/>
+    <fragment
+            android:id="@+id/nav_fatores_risco"
+            android:name="com.projeto.outubrorosa.ui.fatoresrisco.FatoresRiscoFragment"
+            android:label="@string/menu_fatores_risco"
+            tools:layout="@layout/fragment_fatoresrisco"/>
+    <fragment
+            android:id="@+id/nav_dadosstat"
+            android:name="com.projeto.outubrorosa.ui.dadosstat.DadosStatFragment"
+            android:label="@string/menu_dadosstat"
+            tools:layout="@layout/fragment_dadosstat"/>
+    <fragment
+            android:id="@+id/nav_mitoverdade"
+            android:name="com.projeto.outubrorosa.ui.mitoverdade.MitoVerdadeFragment"
+            android:label="@string/menu_mitoverdade"
+            tools:layout="@layout/fragment_mitoverdade"/>
+    <fragment
+            android:id="@+id/nav_saibamais"
+            android:name="com.projeto.outubrorosa.ui.saibamais.SaibaMaisFragment"
+            android:label="@string/menu_saibamais"
+            tools:layout="@layout/fragment_saibamais"/>
+</navigation>
