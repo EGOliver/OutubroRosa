@@ -10,7 +10,7 @@ public class DadosStatViewModel extends ViewModel {
 
     public DadosStatViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Dados Estatísticos.");
+        mText.setValue("Dados Estatísticos");
     }
 
     public LiveData<String> getText() {

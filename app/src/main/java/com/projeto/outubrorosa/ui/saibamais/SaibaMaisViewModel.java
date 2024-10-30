@@ -10,7 +10,7 @@ public class SaibaMaisViewModel extends ViewModel {
 
     public SaibaMaisViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Chamada para Ação.");
+        mText.setValue("Chamada para Ação");
     }
 
     public LiveData<String> getText() {

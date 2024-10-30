@@ -10,7 +10,7 @@ public class FatoresRiscoViewModel extends ViewModel {
 
     public FatoresRiscoViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Fatores de Risco.");
+        mText.setValue("Fatores de Risco");
     }
 
     public LiveData<String> getText() {

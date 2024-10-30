@@ -22,8 +22,7 @@ public class SintomasFragment extends Fragment {
         binding = FragmentSintomasBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textSintomas;
-        sintomasViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+
         return root;
     }
 

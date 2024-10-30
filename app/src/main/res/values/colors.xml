@@ -7,8 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="rosa2">#FFFF00FF</color>
-    <color name="cor_cardview">#FFD8BFD8</color>
-    <color name="rosa">#FFD8BFD8</color>
-    <color name="rosa_escuro">#FF8B008B</color>
+    <color name="rosa2">#C930C9</color>
+    <color name="cor_cardview">#E46DC6</color>
+    <color name="rosa">#F24FC9</color>
+    <color name="rosa_escuro">#C554C5</color>
 </resources>

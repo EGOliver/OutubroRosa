@@ -22,8 +22,6 @@ public class FatoresRiscoFragment extends Fragment {
         binding = FragmentFatoresriscoBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textFatoresrisco;
-        fatoresriscoViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 

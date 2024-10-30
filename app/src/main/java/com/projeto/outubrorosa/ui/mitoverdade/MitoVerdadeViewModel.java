@@ -10,7 +10,7 @@ public class MitoVerdadeViewModel extends ViewModel {
 
     public MitoVerdadeViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Mitos Vs. Verdade.");
+        mText.setValue("Mitos x Verdade");
     }
 
     public LiveData<String> getText() {

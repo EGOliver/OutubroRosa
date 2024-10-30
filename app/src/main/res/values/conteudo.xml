@@ -14,283 +14,305 @@
         \t O Outubro Rosa é um movimento global de conscientização que ocorre anualmente em outubro, com o objetivo de educar
         e alertar sobre a importância da detecção precoce do câncer de mama. Durante esse mês, campanhas ao redor do mundo
         promovem a conscientização, incentivam a prevenção e mobilizam ações de apoio às mulheres afetadas pela doença.\n\n
-
-        \t\t Histórico da Campanha\n\n
-
-        \t * Origem: A campanha teve início nos Estados Unidos, na década de 1990, com o objetivo de destacar a importância
+    </string>
+    <string name="sobre_outubro_rosa2">
+        <b><big>Histórico da Campanha</big></b>\n\n
+    </string>
+    <string name="sobre_outubro_rosa3">
+        \t <b>Origem:</b> A campanha teve início nos Estados Unidos, na década de 1990, com o objetivo de destacar a importância
         do diagnóstico precoce e do tratamento adequado do câncer de mama.\n\n
 
-        \t * O Símbolo do Laço Rosa: O laço rosa, que se tornou o símbolo universal da campanha, foi inicialmente distribuído
+        \t <b>O Símbolo do Laço Rosa:</b> O laço rosa, que se tornou o símbolo universal da campanha, foi inicialmente distribuído
         em eventos para promover a detecção precoce e se consolidou como um ícone da luta contra o câncer de mama.\n\n
 
-        \t * Expansão Global: Desde então, o Outubro Rosa se espalhou por diversos países, incluindo o Brasil,
+        \t <b>Expansão Global:</b> Desde então, o Outubro Rosa se espalhou por diversos países, incluindo o Brasil,
         ganhando força com ações de mobilização e campanhas de saúde pública que visam alcançar milhões de mulheres.\n\n
+    </string>
+    <string name="sobre_outubro_rosa4">
+        <b><big>Objetivos Principais</big></b>\n\n
+    </string>
+    <string name="sobre_outubro_rosa5">
 
-
-        \t\t Objetivos Principais\n\n
-
-        \t 1. Salvar Vidas Através da Detecção Precoce: A campanha enfatiza que o diagnóstico precoce aumenta significativamente
+        \t <b>1. Salvar Vidas Através da Detecção Precoce:</b> A campanha enfatiza que o diagnóstico precoce aumenta significativamente
         as chances de cura. Incentiva as mulheres a realizarem exames regulares, como mamografias,
         para detectar o câncer de mama em seus estágios iniciais.\n\n
 
 
-        \t 2. Romper o Preconceito e o Tabu: O câncer de mama ainda é rodeado por estigmas, e muitas mulheres podem adiar o
+        \t <b>2. Romper o Preconceito e o Tabu:</b> O câncer de mama ainda é rodeado por estigmas, e muitas mulheres podem adiar o
         diagnóstico por medo ou falta de informação. O Outubro Rosa visa combater o preconceito e trazer luz às conversas
         sobre a doença, encorajando as mulheres a cuidarem de sua saúde sem medo.\n\n
 
 
-        \t 3. Promover o Acesso aos Serviços de Saúde: A campanha busca garantir que todas as mulheres,
+        \t <b>3. Promover o Acesso aos Serviços de Saúde:</b> A campanha busca garantir que todas as mulheres,
         independentemente de sua classe social ou localização, tenham acesso a exames preventivos e tratamentos eficazes,
         aumentando as chances de sobrevivência.\n\n
-
-
-
-        \t\t Por Que Focar no Câncer de Mama?\n\n
-
-        \t * Prevalência Global: O câncer de mama é o tipo de câncer mais comum entre as mulheres no mundo,
+    </string>
+    <string name="sobre_outubro_rosa6">
+        <b><big>Por Que Focar no Câncer de Mama?</big></b>\n\n
+    </string>
+    <string name="sobre_outubro_rosa7">
+        \t <b>Prevalência Global:</b> O câncer de mama é o tipo de câncer mais comum entre as mulheres no mundo,
         com milhões de novos casos diagnosticados a cada ano.\n\n
 
-        \t * Detecção Precoce é Fundamental: Quando descoberto em estágio inicial, as chances de cura podem ultrapassar 90%.
+        \t <b>Detecção Precoce é Fundamental:</b> Quando descoberto em estágio inicial, as chances de cura podem ultrapassar 90%.
         Por isso, a conscientização sobre a importância de exames regulares, como a mamografia, é essencial.\n\n
 
-        \t * Autoexame e Exames Regulares: O autoexame não substitui os exames médicos,
+        \t <b>Autoexame e Exames Regulares:</b> O autoexame não substitui os exames médicos,
         mas é uma ferramenta importante para que as mulheres conheçam seu próprio corpo e detectem mudanças de forma rápida,
-        buscando orientação médica o quanto antes.\n\n
-
+        buscando orientação médica o quanto antes.\n
     </string>
+
     <string name="prevencao_do_cancer_de_mama">
         \t Embora não exista uma maneira garantida de prevenir o câncer de mama, certos hábitos e ações podem reduzir significativamente o risco de desenvolver a doença. A prevenção envolve uma combinação de escolhas saudáveis e cuidados com a saúde. Veja algumas orientações para reduzir os riscos:\n\n
-
-        \t 1. Adote uma Alimentação Equilibrada\n\n
-
+    </string>
+    <string name="prevencao_do_cancer_de_mama2">
+        <b><big>1. Adote uma Alimentação Equilibrada</big></b>\n\n
+    </string>
+    <string name="prevencao_do_cancer_de_mama3">
         \t * Priorize o consumo de frutas, verduras, legumes, grãos integrais e alimentos ricos em fibras. Esses alimentos ajudam a regular o metabolismo hormonal e fortalecem o sistema imunológico.\n\n
 
         \t * Evite alimentos processados e ricos em gorduras saturadas, que podem contribuir para o ganho de peso e aumentar os níveis de inflamação no corpo.\n\n
-
-
-        \t 2. Pratique Atividade Física Regular\n\n
-
+    </string>
+    <string name="prevencao_do_cancer_de_mama4">
+        <b><big>2. Pratique Atividade Física Regular</big></b>\n\n
+    </string>
+    <string name="prevencao_do_cancer_de_mama5">
         \t * A prática regular de exercícios físicos ajuda a controlar o peso corporal, reduz os níveis de estrogênio circulante e fortalece o sistema imunológico, diminuindo o risco de câncer de mama.\n\n
 
         \t * Recomenda-se, no mínimo, 150 minutos de atividade física moderada por semana, como caminhadas rápidas, ciclismo ou natação.\n\n
-
-
-        \t 3. Mantenha um Peso Saudável\n\n
-
+    </string>
+    <string name="prevencao_do_cancer_de_mama6">
+        <b><big>3. Mantenha um Peso Saudável</big></b>\n\n
+    </string>
+    <string name="prevencao_do_cancer_de_mama7">
         \t * O excesso de peso, especialmente após a menopausa, está relacionado ao aumento do risco de câncer de mama, pois o tecido adiposo pode produzir estrogênio em níveis mais elevados.\n\n
 
         \t * Manter um peso adequado, associado à dieta equilibrada e à atividade física, é uma das formas mais eficazes de prevenção.\n\n
-
-
-        \t 4. Amamente, se Possível\n\n
-
+    </string>
+    <string name="prevencao_do_cancer_de_mama8">
+        <b><big>4. Amamente, se Possível</big></b>\n\n
+    </string>
+    <string name="prevencao_do_cancer_de_mama9">
         \t * A amamentação, especialmente por períodos prolongados, oferece um efeito protetor. Durante a amamentação, há uma redução dos níveis de estrogênio no organismo, o que diminui o risco de câncer de mama.\n\n
 
         \t * Além disso, a renovação das células mamárias durante a lactação pode ajudar a eliminar células com potencial de desenvolver câncer.\n\n
-
-
-        \t 5. Evite o Tabagismo e o Consumo Excessivo de Álcool\n\n
-
+    </string>
+    <string name="prevencao_do_cancer_de_mama10">
+        <b><big>5. Evite o Tabagismo e o Consumo Excessivo de Álcool</big></b>\n\n
+    </string>
+    <string name="prevencao_do_cancer_de_mama11">
         \t * O tabagismo é associado a diversos tipos de câncer, incluindo o câncer de mama. Fumar, especialmente em idade jovem, aumenta o risco.\n\n
 
         \t * O consumo de álcool, mesmo em pequenas quantidades, pode elevar o risco de câncer de mama. É recomendado limitar a ingestão de álcool a no máximo um drinque por dia, ou evitar completamente.\n\n
-
-
-        \t 6. Conheça e Gerencie Seus Fatores de Risco\n\n
-
+    </string>
+    <string name="prevencao_do_cancer_de_mama12">
+        <b><big>6. Conheça e Gerencie Seus Fatores de Risco</big></b>\n\n
+    </string>
+    <string name="prevencao_do_cancer_de_mama13">
         \t * Se você tem histórico familiar de câncer de mama ou mutações genéticas conhecidas, como nos genes BRCA1 ou BRCA2, considere medidas preventivas adicionais. Isso pode incluir consultas com um especialista em genética ou acompanhamento médico mais frequente.\n\n
 
         \t * A mamografia anual para mulheres a partir de 40 anos, ou conforme recomendado pelo seu médico, é uma ferramenta essencial para a detecção precoce. Mulheres com alto risco podem precisar de exames mais frequentes ou iniciá-los mais cedo.\n\n
-
-
-        \t 7. Evite Terapias Hormonais Prolongadas\n\n
-
+    </string>
+    <string name="prevencao_do_cancer_de_mama14">
+        <b><big>7. Evite Terapias Hormonais Prolongadas</big></b>\n\n
+    </string>
+    <string name="prevencao_do_cancer_de_mama15">
         \t * A terapia de reposição hormonal, especialmente combinada (estrogênio e progesterona), usada por longos períodos após a menopausa, pode aumentar o risco de câncer de mama. Se necessário, use a menor dose eficaz pelo menor tempo possível e converse com seu médico sobre os riscos e benefícios.\n\n
-
-
-        \t 8. Pratique o Autoexame e Realize Exames Regulares\n\n
-
+    </string>
+    <string name="prevencao_do_cancer_de_mama16">
+        <b><big>8. Pratique o Autoexame e Realize Exames Regulares</big></b>\n\n
+    </string>
+    <string name="prevencao_do_cancer_de_mama17">
         \t * Embora o autoexame das mamas não substitua a mamografia, ele é uma ferramenta útil para que a mulher conheça o próprio corpo e identifique mudanças. Realize-o mensalmente e procure um médico ao notar qualquer alteração.\n\n
 
         \t * Exames clínicos regulares, como a mamografia, são cruciais para a detecção precoce e aumentam consideravelmente as chances de cura.\n
-
     </string>
     <string name="mito_vs_verdade">
         \t A desinformação sobre o câncer de mama pode gerar medos desnecessários ou atrasar o diagnóstico.
         Aqui estão alguns dos mitos mais comuns, esclarecidos com fatos:\n\n
 
-        \t 1. Mito: O uso de desodorante antitranspirante causa câncer de mama.\n\n
+        \t <b>1. Mito:</b> O uso de desodorante antitranspirante causa câncer de mama.\n\n
 
-        \t Verdade: Não há evidências científicas que comprovem a ligação entre o uso de desodorantes e o câncer de mama.
+        \t <b>Verdade:</b> Não há evidências científicas que comprovem a ligação entre o uso de desodorantes e o câncer de mama.
         Estudos realizados até o momento não demonstraram nenhuma relação direta entre o uso de antitranspirantes e o
         aumento do risco de desenvolver a doença.\n\n
 
-        \t 2. Mito: O uso de sutiãs apertados pode causar câncer de mama.\n\n
+        \t <b>2. Mito:</b> O uso de sutiãs apertados pode causar câncer de mama.\n\n
 
-        \t Verdade: Não há base científica para essa afirmação. O uso de sutiãs, independentemente do quão justo,
+        \t <b>Verdade:</b> Não há base científica para essa afirmação. O uso de sutiãs, independentemente do quão justo,
         não interfere no desenvolvimento do câncer de mama. O mito pode ter surgido pela ideia de que a
         compressão dos seios bloqueia a drenagem linfática, mas isso não tem comprovação.\n\n
 
-        \t 3. Mito: Apenas mulheres com histórico familiar desenvolvem câncer de mama.\n\n
+        \t <b>3. Mito:</b> Apenas mulheres com histórico familiar desenvolvem câncer de mama.\n\n
 
-        \t Verdade: Embora o histórico familiar possa aumentar o risco, a maioria dos casos de câncer de mama ocorre em
+        \t <b>Verdade:</b> Embora o histórico familiar possa aumentar o risco, a maioria dos casos de câncer de mama ocorre em
         mulheres sem qualquer histórico familiar da doença. Cerca de 85% das mulheres diagnosticadas não
         têm antecedentes familiares de câncer de mama.\n\n
 
-        \t 4. Mito: O câncer de mama é sempre hereditário.\n\n
+        \t <b>4. Mito:</b> O câncer de mama é sempre hereditário.\n\n
 
-        \t Verdade: Apenas 5% a 10% dos casos de câncer de mama são causados por mutações genéticas herdadas,
+        \t <b>Verdade:</b> Apenas 5% a 10% dos casos de câncer de mama são causados por mutações genéticas herdadas,
         como nos genes BRCA1 e BRCA2. A maioria dos casos não está diretamente relacionada à genética, mas a
         fatores de risco como idade e estilo de vida.\n\n
 
-        \t 5. Mito: Biópsias podem espalhar o câncer de mama e torná-lo mais agressivo.\n\n
+        \t <b>5. Mito:</b> Biópsias podem espalhar o câncer de mama e torná-lo mais agressivo.\n\n
 
-        \t Verdade: As biópsias são procedimentos seguros e essenciais para o diagnóstico precoce.
+        \t <b>Verdade:</b> As biópsias são procedimentos seguros e essenciais para o diagnóstico precoce.
         Não há risco de o câncer se espalhar ou se tornar mais agressivo como resultado de uma biópsia.
         Esse exame é uma ferramenta vital para identificar o tipo e estágio do câncer.\n\n
 
-        \t 6. Mito: Homens não têm câncer de mama.\n\n
+        \t <b>6. Mito:</b> Homens não têm câncer de mama.\n\n
 
-        \t Verdade: Embora seja raro, os homens também podem desenvolver câncer de mama.
+        \t <b>Verdade:</b> Embora seja raro, os homens também podem desenvolver câncer de mama.
         A proporção é muito menor (menos de 1% dos casos), mas ainda assim é possível.
         Homens devem estar atentos a sinais como nódulos ou alterações nos mamilos.\n\n
 
-        \t 7. Mito: Se eu não encontrar um nódulo, não preciso me preocupar.\n\n
+        \t <b>7. Mito:</b> Se eu não encontrar um nódulo, não preciso me preocupar.\n\n
 
-        \t Verdade: Embora os nódulos sejam um sintoma comum, o câncer de mama pode se manifestar de outras formas,
+        \t <b>Verdade:</b> Embora os nódulos sejam um sintoma comum, o câncer de mama pode se manifestar de outras formas,
         como mudanças no formato da mama, secreção pelo mamilo ou alterações na pele. Por isso, exames regulares
         são essenciais, mesmo sem a presença de nódulos.\n
     </string>
     <string name="fatores_de_riscos">
         \t Os fatores de risco para o câncer de mama podem ser divididos em modificáveis (relacionados ao estilo de vida) e não modificáveis (biológicos).
         Conhecer esses fatores pode ajudar na prevenção e conscientização da doença.\n\n
+    </string>
+    <string name="fatores_de_riscos2">
+        \t <b><big>1. Fatores Não Modificáveis</big></b>\n\n
+    </string>
+    <string name="fatores_de_riscos3">
+        \t <b>Idade:</b> O risco de desenvolver câncer de mama aumenta com a idade, sendo mais comum após os 50 anos.\n\n
 
-        \t 1. Fatores Não Modificáveis\n\n
-
-        \t Idade: O risco de desenvolver câncer de mama aumenta com a idade, sendo mais comum após os 50 anos.\n\n
-
-        \t Histórico Familiar: Mulheres que possuem parentes de primeiro grau (mãe, irmã ou filha) com câncer de mama têm um risco maior de desenvolver
+        \t <b>Histórico Familiar:</b> Mulheres que possuem parentes de primeiro grau (mãe, irmã ou filha) com câncer de mama têm um risco maior de desenvolver
         a doença.\n\n
 
-        \t Mutações Genéticas: Alterações nos genes BRCA1 e BRCA2 aumentam significativamente o risco. Mulheres com essas mutações têm até 70% de chance
+        \t <b>Mutações Genéticas:</b> Alterações nos genes BRCA1 e BRCA2 aumentam significativamente o risco. Mulheres com essas mutações têm até 70% de chance
         de desenvolver câncer de mama ao longo da vida.\n\n
 
-        \t Histórico Pessoal de Câncer de Mama: Mulheres que já tiveram câncer de mama têm um risco maior de desenvolver um novo
+        \t <b>Histórico Pessoal de Câncer de Mama:</b> Mulheres que já tiveram câncer de mama têm um risco maior de desenvolver um novo
         câncer na outra mama ou na mesma.\n\n
 
-        \t Menarca Precoce e Menopausa Tardia: A exposição prolongada ao estrogênio, com início da menstruação antes dos
+        \t <b>Menarca Precoce e Menopausa Tardia:</b> A exposição prolongada ao estrogênio, com início da menstruação antes dos
         12 anos ou menopausa após os 55 anos, pode aumentar o risco.\n\n
 
-        \t Densidade Mamária: Mulheres com mamas densas, que possuem mais tecido glandular e menos tecido adiposo, têm maior risco,
+        \t <b>Densidade Mamária:</b> Mulheres com mamas densas, que possuem mais tecido glandular e menos tecido adiposo, têm maior risco,
         e a densidade pode dificultar a detecção de tumores pela mamografia.\n\n
-
-
-        \t 2. Fatores Modificáveis\n\n
-
-        \t Sedentarismo e Obesidade: O excesso de peso, principalmente após a menopausa, aumenta o risco, pois o tecido adiposo produz estrogênio,
+    </string>
+    <string name="fatores_de_riscos4">
+        \t <b><big>2. Fatores Modificáveis</big></b>\n\n
+    </string>
+    <string name="fatores_de_riscos5">
+        \t <b>Sedentarismo e Obesidade:</b> O excesso de peso, principalmente após a menopausa, aumenta o risco, pois o tecido adiposo produz estrogênio,
         que pode estimular o desenvolvimento do câncer.\n\n
 
-        \t Consumo de Álcool: O consumo regular de bebidas alcoólicas, mesmo em pequenas quantidades, está associado ao aumento do risco.
+        \t <b>Consumo de Álcool:</b> O consumo regular de bebidas alcoólicas, mesmo em pequenas quantidades, está associado ao aumento do risco.
         Estudos mostram que mulheres que ingerem 3 a 6 drinques por semana têm um risco 15% maior.\n\n
 
-        \t Tabagismo: Fumar, especialmente antes do primeiro filho, pode aumentar o risco de câncer de mama,
+        \t <b>Tabagismo:</b> Fumar, especialmente antes do primeiro filho, pode aumentar o risco de câncer de mama,
         além de estar associado a outros tipos de câncer.\n\n
 
-        \t Uso de Terapia Hormonal: A terapia de reposição hormonal combinada (estrogênio e progesterona),
+        \t <b>Uso de Terapia Hormonal:</b> A terapia de reposição hormonal combinada (estrogênio e progesterona),
         especialmente quando usada por mais de 5 anos após a menopausa, está associada a um aumento no risco de câncer de mama.\n\n
 
-        \t Gravidez e Amamentação: Nunca ter tido filhos ou ter o primeiro filho após os 30 anos pode aumentar o risco.
+        \t <b>Gravidez e Amamentação:</b> Nunca ter tido filhos ou ter o primeiro filho após os 30 anos pode aumentar o risco.
         Por outro lado, a amamentação, especialmente prolongada, é um fator protetor.\n\n
 
-        \t Exposição à Radiação: Mulheres que passaram por tratamento com radioterapia na região torácica,
+        \t <b>Exposição à Radiação:</b> Mulheres que passaram por tratamento com radioterapia na região torácica,
         especialmente na infância ou adolescência, possuem maior risco de desenvolver câncer de mama mais tarde.\n
     </string>
     <string name="dados_estatisticos">
-        \t Brasil: O câncer de mama é o tipo de câncer mais comum entre as mulheres brasileiras, excluindo o câncer de pele não melanoma.
+        \t <b>Brasil:</b> O câncer de mama é o tipo de câncer mais comum entre as mulheres brasileiras, excluindo o câncer de pele não melanoma.
         Segundo o Instituto Nacional de Câncer (INCA), em 2023 foram estimados cerca de 73.610 novos casos no Brasil.\n\n
 
-        \t Mundo: Globalmente, o câncer de mama também é o mais prevalente entre as mulheres.
+        \t <b>Mundo:</b> Globalmente, o câncer de mama também é o mais prevalente entre as mulheres.
         De acordo com a Organização Mundial da Saúde (OMS), foram registrados mais de 2,3 milhões de novos casos em 2020,
         representando aproximadamente 24,5% de todos os cânceres diagnosticados em mulheres.\n\n
 
-        \t Taxas de Cura: Quando detectado precocemente, o câncer de mama tem uma alta taxa de sucesso no tratamento.
+        \t <b>Taxas de Cura:</b> Quando detectado precocemente, o câncer de mama tem uma alta taxa de sucesso no tratamento.
         A taxa de sobrevida em 5 anos pode chegar a 90%, se a doença for descoberta nos estágios iniciais.
         Por isso, a mamografia regular e o autoexame são essenciais.\n\n
 
-        \t Mortalidade: Embora os avanços no tratamento tenham reduzido as taxas de mortalidade,
+        \t <b>Mortalidade:</b> Embora os avanços no tratamento tenham reduzido as taxas de mortalidade,
         o câncer de mama ainda é responsável por cerca de 15% das mortes por câncer em mulheres no mundo.\n
     </string>
     <string name="sintomas">
         \t Os sintomas do câncer de mama podem variar de mulher para mulher, e alguns sinais podem passar despercebidos no início.
         A detecção precoce é essencial para aumentar as chances de cura, por isso, é importante estar atenta aos seguintes sinais
         e procurar um médico caso note qualquer alteração.\n\n
-
-        \t 1. Nódulo ou Caroço na Mama\n\n
-
+    </string>
+    <string name="sintomas2">
+        <b><big>1. Nódulo ou Caroço na Mama</big></b>\n\n
+    </string>
+    <string name="sintomas3">
         \t Um dos sinais mais comuns é o surgimento de um nódulo na mama ou na axila. Geralmente, o nódulo é indolor,
         com bordas irregulares, e pode ser sentido ao toque.\n\n
 
         \t Embora a maioria dos nódulos não seja cancerígena, qualquer mudança deve ser investigada por um médico.\n\n
-
-
-        \t 2. Alterações no Tamanho ou Formato da Mama\n\n
-
+    </string>
+    <string name="sintomas4">
+        <b><big>2. Alterações no Tamanho ou Formato da Mama</big></b>\n\n
+    </string>
+    <string name="sintomas5">
         \t A mama pode apresentar inchaço, alteração no formato ou na simetria. Uma das mamas pode se tornar visivelmente
         maior ou mais endurecida, o que pode ser um sinal de tumor.\n\n
-
-
-        \t 3. Secreção Incomum pelo Mamilo\n\n
-
+    </string>
+    <string name="sintomas6">
+        <b><big>3. Secreção Incomum pelo Mamilo</big></b>\n\n
+    </string>
+    <string name="sintomas7">
         \t Qualquer secreção espontânea pelo mamilo, principalmente se for sanguinolenta ou com coloração amarela ou clara, deve ser investigada.\n\n
 
         \t A secreção sem estímulo ou sem estar associada à amamentação pode ser um sintoma importante de câncer de mama.\n\n
-
-
-        \t 4. Inversão ou Retração do Mamilo\n\n
-
+    </string>
+    <string name="sintomas8">
+        <b><big>4. Inversão ou Retração do Mamilo</big></b>\n\n
+    </string>
+    <string name="sintomas9">
         \t A inversão (quando o mamilo se retrai para dentro) ou qualquer alteração em sua posição habitual pode ser um
         indicativo de alterações nos tecidos mamários, incluindo a presença de um tumor.\n\n
-
-
-        \t 5. Vermelhidão, Descamação ou Alterações na Pele da Mama\n\n
-
+    </string>
+    <string name="sintomas10">
+        <b><big>5. Vermelhidão, Descamação ou Alterações na Pele da Mama</big></b>\n\n
+    </string>
+    <string name="sintomas11">
         \t A pele da mama pode se tornar avermelhada, apresentar descamação, feridas ou textura semelhante à casca de laranja
         (peau d’orange), com pequenos orifícios. Essas alterações podem ser um sintoma de um tipo raro e agressivo de câncer
         de mama, chamado câncer de mama inflamatório.\n\n
-
-
-        \t 6. Dor Persistente na Mama ou Mamilo\n\n
-
+    </string>
+    <string name="sintomas12">
+        <b><big>6. Dor Persistente na Mama ou Mamilo</big></b>\n\n
+    </string>
+    <string name="sintomas13">
         \t Embora a dor na mama não seja o sintoma mais comum, ela pode ocorrer em alguns casos. Se a dor for localizada,
         persistente e não estiver relacionada ao ciclo menstrual, é recomendável procurar orientação médica.\n\n
-
-
-        \t 7. Mudanças na Textura ou Sensação Geral\n\n
-
+    </string>
+    <string name="sintomas14">
+        <b><big>7. Mudanças na Textura ou Sensação Geral</big></b>\n\n
+    </string>
+    <string name="sintomas15">
         \t A sensação de espessamento ou endurecimento do tecido da mama, especialmente em uma área específica, também pode ser um sinal de câncer.
         Preste atenção a mudanças na textura que não desaparecem após um tempo.\n\n
 
         \t É importante lembrar que nem todas as alterações nas mamas indicam câncer. No entanto, qualquer sintoma incomum deve
         ser examinado por um profissional de saúde o quanto antes. A detecção precoce é a chave para o tratamento bem-sucedido.\n\n
-
     </string>
     <string name="chama_para_acao">
-        \t * Realize o Autoexame: Conhecer o próprio corpo e realizar o autoexame regularmente ajuda a identificar possíveis alterações na mama.\n\n
+        \t * <b>Realize o Autoexame:</b> Conhecer o próprio corpo e realizar o autoexame regularmente ajuda a identificar possíveis alterações na mama.\n\n
 
-        \t * Agende Suas Mamografias: A mamografia é a principal ferramenta para detectar o câncer de mama precocemente.
+        \t * <b>Agende Suas Mamografias:</b> A mamografia é a principal ferramenta para detectar o câncer de mama precocemente.
         Mulheres a partir dos 40 anos devem fazer mamografias regularmente, ou conforme orientação médica.\n\n
 
-        \t * Procure um Médico ao Notar Alterações: Qualquer mudança, como nódulos, inchaço, dor ou secreção,
+        \t * <b>Procure um Médico ao Notar Alterações:</b> Qualquer mudança, como nódulos, inchaço, dor ou secreção,
         deve ser investigada por um profissional de saúde imediatamente.\n\n
 
-        \t * Compartilhe a Mensagem: O impacto do Outubro Rosa vai além do diagnóstico individual.
+        \t * <b>Compartilhe a Mensagem:</b> O impacto do Outubro Rosa vai além do diagnóstico individual.
         Divulgue a campanha, incentive outras mulheres a se cuidarem e participe de ações de conscientização na sua comunidade.\n</string>
 
     // Abaixo links para as instituições de saúde.
-    <string name="ministerio_da_saude">Ministério da Saúde - "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/cancer-de-mama"</string>
-    <string name="instituto_nacional_de_cancer">Instituto Nacional de Câncer (INCA) - "https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/mama"</string>
-    <string name="sociedade_brasileira_de_mastologia">Sociedade Brasileira de Mastologia - "https://www.sbmastologia.com.br/"</string>
-    <string name="drauzio_varella">Drauzio Varella - "https://drauziovarella.uol.com.br/doencas-e-sintomas/cancer-de-mama/amp/"</string>
-    <string name="tua_saude">Tua Saúde - "https://www.tuasaude.com/cancer-de-mama/"</string>
-    <string name="mayo_clinic">Mayo Clinic - "https://www.mayoclinic.org/diseases-conditions/breast-cancer/symptoms-causes/syc-20352470"</string>
+    <string name="ministerio_da_saude"><b>Ministério da Saúde</b> - "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/cancer-de-mama"</string>
+    <string name="instituto_nacional_de_cancer"><b>Instituto Nacional de Câncer (INCA)</b> - "https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/mama"</string>
+    <string name="sociedade_brasileira_de_mastologia"><b>Sociedade Brasileira de Mastologia</b> - "https://www.sbmastologia.com.br/"</string>
+    <string name="drauzio_varella"><b>Drauzio Varella</b> - "https://drauziovarella.uol.com.br/doencas-e-sintomas/cancer-de-mama/amp/"</string>
+    <string name="tua_saude"><b>Tua Saúde</b> - "https://www.tuasaude.com/cancer-de-mama/"</string>
+    <string name="mayo_clinic"><b>Mayo Clinic</b> - "https://www.mayoclinic.org/diseases-conditions/breast-cancer/symptoms-causes/syc-20352470"</string>
 </resources>
