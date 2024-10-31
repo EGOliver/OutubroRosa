@@ -33,6 +33,10 @@
                 android:icon="@drawable/laco_outubro_rosa"
                 android:title="@string/menu_mitoverdade"/>
         <item
+            android:id="@+id/nav_guiaautoexame"
+            android:icon="@drawable/laco_outubro_rosa"
+            android:title="@string/menu_guiaautoexame"/>
+        <item
                 android:id="@+id/nav_saibamais"
                 android:icon="@drawable/ic_notifications_black_24dp"
                 android:title="@string/menu_saibamais"/>

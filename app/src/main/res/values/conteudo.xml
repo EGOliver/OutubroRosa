@@ -308,6 +308,46 @@
         \t * <b>Compartilhe a Mensagem:</b> O impacto do Outubro Rosa vai além do diagnóstico individual.
         Divulgue a campanha, incentive outras mulheres a se cuidarem e participe de ações de conscientização na sua comunidade.\n</string>
 
+    <string name="guiaAutoexame">
+        \t <b>Lembrando</b>: O autoexame não substitui a mamografia ou consultas médicas regulares, mas ajuda na percepção de mudanças.\n
+    </string>
+    <string name="guiaAutoexame2">
+        <b>1. Posição em Frente ao Espelho:</b>
+    </string>
+    <string name="guiaAutoexame3">
+        \t Fique de pé em frente ao espelho, com os ombros retos e os braços ao lado do corpo.\n
+
+        \t Observe se há mudanças no formato das mamas, na textura da pele ou no bico do seio, como ondulações, rugas, retrações ou vermelhidão.\n
+    </string>
+    <string name="guiaAutoexame4">
+        <b>2. Levantando os Braços:</b>
+    </string>
+    <string name="guiaAutoexame5">
+        \t Levante os braços acima da cabeça e observe se há alguma alteração no contorno ou no formato das mamas,
+        incluindo retrações ou mudanças de posição nos mamilos.\n
+    </string>
+    <string name="guiaAutoexame6">
+        <b>3. Observando a Secreção dos Mamilos:</b>
+    </string>
+    <string name="guiaAutoexame7">
+        \t Pressione suavemente cada mamilo e verifique se há alguma secreção, como líquido leitoso, amarelado ou sangue.\n
+    </string>
+    <string name="guiaAutoexame8">
+        <b>4. Deitada com a Mão Atrás da Cabeça:</b>
+    </string>
+    <string name="guiaAutoexame9">
+        \t Deite-se e coloque o braço esquerdo atrás da cabeça.\n
+
+        \t Com a mão direita, faça movimentos circulares em toda a mama esquerda, aplicando leve pressão para sentir áreas mais profundas.
+    Em seguida, repita do outro lado.\n
+    </string>
+    <string name="guiaAutoexame10">
+        <b>5. Autoexame no Banho:</b>
+    </string>
+    <string name="guiaAutoexame11">
+        \t Com o corpo ensaboado, faça o mesmo movimento circular, pois a pele molhada pode ajudar a perceber mais facilmente alterações.\n
+    </string>
+
     // Abaixo links para as instituições de saúde.
     <string name="ministerio_da_saude"><b>Ministério da Saúde</b> - "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/cancer-de-mama"</string>
     <string name="instituto_nacional_de_cancer"><b>Instituto Nacional de Câncer (INCA)</b> - "https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/mama"</string>

@@ -47,4 +47,9 @@
             android:name="com.projeto.outubrorosa.ui.saibamais.SaibaMaisFragment"
             android:label="@string/menu_saibamais"
             tools:layout="@layout/fragment_saibamais"/>
+    <fragment
+        android:id="@+id/nav_guiaautoexame"
+        android:name="com.projeto.outubrorosa.ui.guiaautoexame.GuiaAutoexameFragment"
+        android:label="@string/menu_guiaautoexame"
+        tools:layout="@layout/fragment_guiaautoexame"/>
 </navigation>

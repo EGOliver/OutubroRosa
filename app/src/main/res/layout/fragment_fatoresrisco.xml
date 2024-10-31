@@ -56,7 +56,7 @@
                         tools:layout_editor_absoluteX="0dp"/>
                     <TextView
                         android:text="@string/fatores_de_riscos2"
-                        android:layout_width="wrap_content"
+                        android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:id="@+id/textView1"
                         android:layout_margin="8dp"
@@ -73,7 +73,7 @@
                         tools:layout_editor_absoluteX="0dp"/>
                     <TextView
                         android:text="@string/fatores_de_riscos4"
-                        android:layout_width="wrap_content"
+                        android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:id="@+id/textView3"
                         android:layout_margin="8dp"
